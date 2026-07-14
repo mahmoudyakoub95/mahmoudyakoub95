@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on for schleife
 - 🤔 I’m looking for help with my experience
 - 💬 Ask me about automotive
-- 📫 How to reach me: whatsapp
+- 📫 How to reach me: WhatsApp
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
