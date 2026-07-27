@@ -1,2 +1,2 @@
-def merge_fun():
+def merge_fun_2():
     pass
